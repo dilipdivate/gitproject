@@ -1,0 +1,2 @@
+changes in file6 from feature 2
+changes in file6 from feature 1
